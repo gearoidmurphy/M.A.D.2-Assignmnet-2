@@ -16,16 +16,18 @@
             android:icon="@drawable/ic_menu_slideshow"
             android:title="@string/action_about" />
     </group>
-    <item android:title="@string/group_communicate">
+    <item android:title="User Settings">
         <menu>
+                <item
+                    android:id="@+id/nav_sign_out"
+                    android:icon="@android:drawable/ic_menu_revert"
+                    android:title="@string/sign_out" />
             <item
-                android:id="@+id/nav_share"
-                android:icon="@drawable/ic_menu_gallery"
-                android:title="@string/action_share" />
-            <item
-                android:id="@+id/nav_send"
-                android:icon="@drawable/ic_menu_camera"
-                android:title="@string/action_send" />
+                android:id="@+id/nav_changetheme"
+                android:icon="@android:drawable/ic_menu_revert"
+                android:title="Change Theme" />
+
+
         </menu>
     </item>
 </menu>
