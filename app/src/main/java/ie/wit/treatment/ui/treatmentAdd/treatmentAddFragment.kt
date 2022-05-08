@@ -155,10 +155,7 @@ class treatmentAddFragment : Fragment() {
             showImagePicker(imageIntentLauncher)
         }
 
-        fragBinding.btnDelete.setOnClickListener(){
-            app.treatmentsStore.delete(treatment.copy())
-            Timber.v("Delete Button Pressed: $treatment")
-        }
+
 
 //        fragBinding.treatmentLocation.setOnClickListener {
 //            if (treatment.zoom != 0f) {

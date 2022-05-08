@@ -15,12 +15,13 @@
         <entry key="app/src/main/res/layout/fragment_slideshow.xml" value="0.1296875" />
         <entry key="app/src/main/res/layout/fragment_treatment.xml" value="0.19831223628691982" />
         <entry key="app/src/main/res/layout/home.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/login.xml" value="0.25" />
         <entry key="app/src/main/res/layout/nav_header.xml" value="0.1" />
         <entry key="app/src/main/res/layout/nav_header_main.xml" value="0.1296875" />
         <entry key="app/src/main/res/menu/main.xml" value="0.1296875" />
         <entry key="app/src/main/res/menu/menu_donate.xml" value="0.1296875" />
         <entry key="app/src/main/res/menu/menu_report.xml" value="0.1296875" />
-        <entry key="app/src/main/res/menu/nav_drawer_menu.xml" value="0.1296875" />
+        <entry key="app/src/main/res/menu/nav_drawer_menu.xml" value="0.165" />
       </map>
     </option>
   </component>

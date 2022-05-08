@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "460022656026",
+    "project_id": "treatmenttracker-9c13e",
+    "storage_bucket": "treatmenttracker-9c13e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460022656026:android:c44e53a419579bc26675a3",
+        "android_client_info": {
+          "package_name": "ie.wit.treatment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460022656026-fv78bhkkn4hjl75kqdn886ukn979c0ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi6k5P3yOOH_oZi7rQLxJvbRabqSMpvB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460022656026-fv78bhkkn4hjl75kqdn886ukn979c0ia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
